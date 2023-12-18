@@ -1,0 +1,31 @@
+{
+  "name": "mochatestsample",
+  "version": "1.0.0",
+  "description": " Getting Started with Our First New Mocha Selenium Test Script and Executing it on a Local Selenium Setup ",
+  "scripts": {
+    "test": "mocha scripts/single_test.js"
+  },
+  "author": "rohit",
+  "license": "ISC",
+  "homepage": "https://mochajs.org",
+  "keywords": [
+    "mocha",
+    "bdd",
+    "selenium",
+    "examples",
+    "test",
+    "bdd",
+    "tdd",
+    "tap",
+    "framework"
+  ],
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "selenium-webdriver": "^3.6.0",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  },
+  "main": "Main.js"
+}

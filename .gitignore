@@ -1,0 +1,7 @@
+puppeteer/arxiv.db
+puppeteer/package-lock.json
+puppeteer/node_modules/
+Selenium/arxiv.db
+Selenium/package-lock.json
+Selenium/node_modules/
+Selenium/chromedriver.exe
